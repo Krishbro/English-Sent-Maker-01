@@ -38,5 +38,12 @@
     </div>
     </div>
 <script src="script.js" charset="utf-8"></script>
+    <script>
+ window.onresize = () => {
+   queBox.style.transform = `translateX(${-section[0].offsetWidth * index}px)`;
+ };
+ window.oncontextmenu = (e) => {
+   e.preventDefault();
+ };
   </body>
 </html>
