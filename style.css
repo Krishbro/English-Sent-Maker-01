@@ -23,6 +23,7 @@ margin-bottom: 20px;
 .sinhala {
 font-size: 18px;
 color: #666;
+color: red;
 
 }
 
@@ -53,7 +54,7 @@ padding: 5px 10px;
 border: none;
 border-radius: 5px;
 cursor: pointer;
-font-size: 16px;
+font-size: 20px;
 }
 .result {
 font-size: 24px;
