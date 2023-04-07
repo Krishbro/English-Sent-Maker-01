@@ -7,6 +7,7 @@ h1 {
 text-align: center;
 font-size: 26px;
 margin-top:0px;
+color: #FC5185;
 }
 
 .game {
@@ -23,8 +24,10 @@ margin-bottom: 20px;
 .sinhala {
 font-size: 18px;
 color: #666;
-color: red;
-
+color: #3F72AF;
+background-color: #fff;
+padding: 20px;
+border-radius: 15px;
 }
 
 .words {
