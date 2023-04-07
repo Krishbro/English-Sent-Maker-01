@@ -74,6 +74,7 @@ display:none;
 #restart-btn , #next-btn {
   background-color: #4CAF50;
   margin-top: 150px;
+  font-size:25px;
 }
 
 #restart-btn:hover , #next-btn:hover {
@@ -105,4 +106,5 @@ text-align: center;
 color: #fff;
 font: 16px "Trebuchet MS", Arial, Helvetica, sans-serif;
 font-weight: normal;
+ margin-top:30px
 }
