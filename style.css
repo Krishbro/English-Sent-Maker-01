@@ -95,3 +95,14 @@ display:none;
   color: #4CAF50;
   margin-top: 30px;
 }
+img{
+  width: 50px;
+  vertical-align: middle;
+  margin-left: 5px;
+}
+.foot{
+text-align: center;
+color: #fff;
+font: 16px "Trebuchet MS", Arial, Helvetica, sans-serif;
+font-weight: normal;
+}
